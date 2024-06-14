@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.main-text-container {
+  width: 50rem;
+  margin: 0 auto;
+  position: relative;
+}
+
+.figure-container {
+  width: 50rem;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.figure-container img {
+  max-width: 43rem;
+  height: auto;
+  align-items: center;
+}
+
+.margin-note {
+  /* text-align: right; */
+  /* float: right; Remove this */
+  display: block;
+  margin: 1rem 0 0 auto;
+  width: 12.5rem;
+  background-color: #BABABA;
+  font-size: 0.75rem;
+  text-decoration: none;
+  color: #000;
+  right: -13.5rem;
+}
+
+.caption {
+  text-align: left;
+  font-size: 0.5rem;
+}
